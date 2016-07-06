@@ -12,5 +12,3 @@ Please don't say you made it, It took me ages to make it and i'll be updating it
 Just contact me and I'll fix it :)
 
 Skype: spigot.plugins
-Spigot: DevBukkit
-MC-M: UntouchedOdin0
